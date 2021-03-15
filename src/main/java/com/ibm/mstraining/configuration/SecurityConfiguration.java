@@ -1,4 +1,4 @@
-package com.ibm.mstraining;
+package com.ibm.mstraining.configuration;
 
 import org.springframework.boot.autoconfigure.security.SecurityProperties;
 import org.springframework.context.annotation.Bean;
